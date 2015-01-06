@@ -1,0 +1,26 @@
+body{
+	background-image: url('../img/textureBG.jpg');
+}
+
+#mainContent{
+	background-color: #eeeeee;
+	padding: 30px;
+	margin: 5% 10%;
+	border: 10px solid #9e0008;
+	border-radius: 10px;
+	box-shadow: 2px 2px 2px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+#clientForm label{
+	display: inline-block;
+	text-align: right;
+	width: 100px;
+	font-weight: bold;
+}
+
+#clientForm input{
+	display: inline-block;
+	float: none;
+}
